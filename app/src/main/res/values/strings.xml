@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">WeatherApp</string>
     <string name="state">Select</string>
-    <string name="id">Name: Anurag Shukla\n Student id: 6554545108   "</string>
-    <string name="aeris_client_id">xw4CivHTJOgwzb6N1AECr</string>
-    <string name="facebook_app_id">363537433698763</string>
-    <string name="aeris_client_secret">sqUUJj06uxnd4erSb5DsvDwuk0agtVE409lujGY</string>
+    <string name="id">Name:   "</string>
+    <string name="aeris_client_id"></string>
+    <string name="facebook_app_id"></string>
+    <string name="aeris_client_secret"></string>
     <string-array name="states">
         <item>Select</item>
         <item>AL</item>
